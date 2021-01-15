@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 128 128" style="enable-background:new 0 0 128 128;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);}
+	.st2{fill:#6FACE4;}
+	.st3{fill:#D6D6D6;}
+	.st4{fill:#FFFFFF;}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:#1253FC;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#00ACE4;}
+</style>
+<path class="st0" d="M64,126c34.2,0,62-27.8,62-62S98.2,2,64,2S2,29.8,2,64S29.8,126,64,126z"/>
+<g>
+	<defs>
+		<path id="SVGID_1_" d="M64,126c34.2,0,62-27.8,62-62S98.2,2,64,2S2,29.8,2,64S29.8,126,64,126z"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g class="st1">
+		<rect x="3" y="92" class="st2" width="122" height="39"/>
+	</g>
+</g>
+<path class="st3" d="M64,126.5c-34.5,0-62.5-28-62.5-62.5c0-34.5,28-62.5,62.5-62.5c34.5,0,62.5,28,62.5,62.5
+	C126.5,98.5,98.5,126.5,64,126.5z M64,2.5C30.1,2.5,2.5,30.1,2.5,64s27.6,61.5,61.5,61.5s61.5-27.6,61.5-61.5S97.9,2.5,64,2.5z"/>
+<path class="st4" d="M62.7,119v-4.7h-9.3v-3.8h7.9v-4.7h-7.9v-3.6h9.3v-4.7H48.2V119H62.7z"/>
+<path class="st4" d="M81.9,112.2h-5.3c-0.3,1.2-1,2.3-2.7,2.3c-1,0-1.7-0.4-2.1-0.9c-0.5-0.6-0.8-1.4-0.8-5.3s0.3-4.7,0.8-5.3
+	c0.4-0.5,1.1-0.9,2.1-0.9c1.7,0,2.4,1.1,2.7,2.3h5.3c-0.8-4.7-4-7-8.1-7c-2.5,0-4.4,0.8-5.9,2.4c-2.2,2.2-2.2,5.2-2.2,8.5
+	s-0.1,6.2,2.2,8.5c1.6,1.6,3.4,2.4,5.9,2.4C77.9,119.2,81.1,116.9,81.9,112.2z"/>
+<path class="st5" d="M70.5,35.9c0-9.7-4.7-18.1-8.2-20.8c0,0-0.3-0.2-0.3,0.2l0,0C61.8,34.1,52.3,39.2,47.2,46
+	c-12,15.8-0.8,33.2,10.5,36.4c6.3,1.8-1.5-3.2-2.5-13.7C54,56.1,70.5,46.4,70.5,35.9z"/>
+<path class="st6" d="M76.7,42.3c-0.1-0.1-0.2-0.1-0.3,0c-0.2,2.4-2.7,7.4-6,12.1c-10.9,15.8-4.7,23.4-1.2,27.4c2,2.4,0,0,5.1-2.4
+	c0.4-0.2,9.9-5.3,10.9-16.8C86.3,51.4,79.3,44.3,76.7,42.3z"/>
+</svg>
